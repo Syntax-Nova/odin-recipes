@@ -18,3 +18,9 @@ img {
     border: 5px solid;
     margin: 20px;
 }
+
+.steps {
+    background-color: rgb(255, 165, 0);
+    border: 5px solid;
+    margin: 20px;
+}
