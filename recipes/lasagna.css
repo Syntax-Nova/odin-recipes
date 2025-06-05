@@ -1,3 +1,14 @@
 body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+img {
+    border: 10px solid rgb(41, 34, 34);
+    margin-left: 450px;
+}
+
+.describe {
+    background-color: rgb(255, 165, 0);
+    border: 5px solid;
+    margin: 20px;
+}
